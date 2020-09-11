@@ -275,9 +275,9 @@
     "hanzi": "对不起",
     "pinyin": "duì bu qǐ",
     "translations": [
+      "I'm sorry",
       "unworthy",
       "to let down",
-      "I'm sorry",
       "excuse me",
       "pardon me",
       "if you please",
@@ -371,7 +371,7 @@
     "hanzi": "个",
     "pinyin": "gè",
     "translations": [
-      "variant of 個|个[gè]"
+      "universal measure word"
     ]
   },
   {
@@ -476,8 +476,8 @@
     "hanzi": "回",
     "pinyin": "huí",
     "translations": [
-      "to curve",
       "to return",
+      "to curve",
       "to revolve"
     ]
   },
@@ -658,8 +658,8 @@
     "hanzi": "了",
     "pinyin": "le",
     "translations": [
-      "(modal particle intensifying preceding clause)",
-      "(completed action marker)"
+      "(completed action marker)",
+      "(modal particle intensifying preceding clause)"
     ]
   },
   {
@@ -765,6 +765,7 @@
     "hanzi": "没关系",
     "pinyin": "méi guān xi",
     "translations": [
+      "It's ok",
       "it doesn't matter"
     ]
   },
@@ -1219,9 +1220,9 @@
     "hanzi": "太",
     "pinyin": "tài",
     "translations": [
+      "too (much)，very",
       "highest",
       "greatest",
-      "too (much)",
       "very",
       "extremely"
     ]
@@ -1574,7 +1575,7 @@
     "hanzi": "怎么",
     "pinyin": "zěn me",
     "translations": [
-      "variant of 怎麼|怎么[zěn me]"
+      "how"
     ]
   },
   {

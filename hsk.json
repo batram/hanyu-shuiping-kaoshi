@@ -298,9 +298,9 @@
     "hanzi": "对不起",
     "pinyin": "duì bu qǐ",
     "translations": [
+      "I'm sorry",
       "unworthy",
       "to let down",
-      "I'm sorry",
       "excuse me",
       "pardon me",
       "if you please",
@@ -403,7 +403,7 @@
     "hanzi": "个",
     "pinyin": "gè",
     "translations": [
-      "variant of 個|个[gè]"
+      "universal measure word"
     ]
   },
   {
@@ -517,8 +517,8 @@
     "hanzi": "回",
     "pinyin": "huí",
     "translations": [
-      "to curve",
       "to return",
+      "to curve",
       "to revolve"
     ]
   },
@@ -713,8 +713,8 @@
     "hanzi": "了",
     "pinyin": "le",
     "translations": [
-      "(modal particle intensifying preceding clause)",
-      "(completed action marker)"
+      "(completed action marker)",
+      "(modal particle intensifying preceding clause)"
     ]
   },
   {
@@ -830,6 +830,7 @@
     "hanzi": "没关系",
     "pinyin": "méi guān xi",
     "translations": [
+      "It's ok",
       "it doesn't matter"
     ]
   },
@@ -1326,9 +1327,9 @@
     "hanzi": "太",
     "pinyin": "tài",
     "translations": [
+      "too (much)，very",
       "highest",
       "greatest",
-      "too (much)",
       "very",
       "extremely"
     ]
@@ -1714,7 +1715,7 @@
     "hanzi": "怎么",
     "pinyin": "zěn me",
     "translations": [
-      "variant of 怎麼|怎么[zěn me]"
+      "how"
     ]
   },
   {
@@ -2004,13 +2005,13 @@
     "hanzi": "穿",
     "pinyin": "chuān",
     "translations": [
+      "to wear",
       "to bore through",
       "to pierce",
       "to perforate",
       "to penetrate",
       "to pass through",
       "to dress",
-      "to wear",
       "to put on",
       "to thread"
     ]
@@ -2132,11 +2133,11 @@
     "hanzi": "到",
     "pinyin": "dào",
     "translations": [
+      "to arrive",
       "to (a place)",
       "until (a time)",
       "up to",
-      "to go",
-      "to arrive"
+      "to go"
     ]
   },
   {
@@ -2271,10 +2272,10 @@
     "hanzi": "给",
     "pinyin": "gěi",
     "translations": [
+      "to give",
       "to",
       "for",
       "for the benefit of",
-      "to give",
       "to allow",
       "to do sth (for sb)",
       "(passive particle)"
@@ -2515,8 +2516,8 @@
     "hanzi": "进",
     "pinyin": "jìn",
     "translations": [
-      "to advance",
       "to enter",
+      "to advance",
       "to come (or go) into",
       "to receive or admit",
       "to eat or drink",
@@ -2893,8 +2894,8 @@
     "hanzi": "旁边",
     "pinyin": "páng biān",
     "translations": [
-      "lateral",
       "side",
+      "lateral",
       "to the side",
       "beside"
     ]
@@ -2963,7 +2964,7 @@
     "hanzi": "千",
     "pinyin": "qiān",
     "translations": [
-      "a swing"
+      "thousand"
     ]
   },
   {
@@ -2991,9 +2992,9 @@
     "hanzi": "让",
     "pinyin": "ràng",
     "translations": [
-      "to yield",
-      "to permit",
       "to let sb do sth",
+      "to permit",
+      "to yield",
       "to have sb do sth"
     ]
   },
@@ -3215,10 +3216,10 @@
     "hanzi": "为",
     "pinyin": "wèi",
     "translations": [
-      "variant of 為|为",
       "because of",
       "for",
-      "to"
+      "to",
+      "variant of 為|为"
     ]
   },
   {
@@ -3331,8 +3332,9 @@
     "hanzi": "姓",
     "pinyin": "xìng",
     "translations": [
-      "family name",
       "surname",
+      "last name",
+      "family name",
       "name",
       "CL:個|个[gè]"
     ]
@@ -3411,9 +3413,9 @@
     "hanzi": "要",
     "pinyin": "yào",
     "translations": [
+      "to want",
       "important",
       "vital",
-      "to want",
       "will",
       "going to (as future auxiliary)",
       "may",
@@ -3598,8 +3600,8 @@
     "hanzi": "张",
     "pinyin": "zhāng",
     "translations": [
-      "to open up",
       "to spread",
+      "to open up",
       "sheet of paper",
       "classifier for flat objects",
       "sheet",
@@ -3612,10 +3614,10 @@
     "hanzi": "长",
     "pinyin": "zhǎng",
     "translations": [
+      "to grow",
       "chief",
       "head",
       "elder",
-      "to grow",
       "to develop",
       "to increase",
       "to enhance"
@@ -3963,9 +3965,9 @@
     "hanzi": "被",
     "pinyin": "bèi",
     "translations": [
+      "(indicates passive-voice clauses)",
       "quilt",
       "by",
-      "(indicates passive-voice clauses)",
       "(literary) to cover",
       "to meet with"
     ]
@@ -4300,9 +4302,9 @@
     "hanzi": "聪明",
     "pinyin": "cōng ming",
     "translations": [
+      "intelligent",
       "acute (of sight and hearing)",
       "clever",
-      "intelligent",
       "bright",
       "smart"
     ]
@@ -4338,8 +4340,8 @@
     "hanzi": "带",
     "pinyin": "dài",
     "translations": [
-      "band",
       "belt",
+      "band",
       "girdle",
       "ribbon",
       "tire",
@@ -4387,10 +4389,10 @@
     "hanzi": "当然",
     "pinyin": "dāng rán",
     "translations": [
+      "of course",
       "only natural",
       "as it should be",
       "certainly",
-      "of course",
       "without doubt"
     ]
   },
@@ -4496,6 +4498,7 @@
     "hanzi": "冬",
     "pinyin": "dōng",
     "translations": [
+      "winter",
       "sound of beating a drum",
       "onomatopoeia for rat-a-tat etc"
     ]
@@ -4705,10 +4708,10 @@
     "hanzi": "复习",
     "pinyin": "fù xí",
     "translations": [
-      "variant of 復習|复习",
       "to revise",
       "to review",
-      "revision"
+      "revision",
+      "variant of 復習|复习"
     ]
   },
   {
@@ -4832,11 +4835,11 @@
     "hanzi": "关",
     "pinyin": "guān",
     "translations": [
-      "mountain pass",
       "to close",
       "to shut",
       "to turn off",
       "to concern",
+      "mountain pass",
       "to involve"
     ]
   },
@@ -4846,7 +4849,9 @@
     "hanzi": "关系",
     "pinyin": "guān xì",
     "translations": [
-      "variant of 關係|关系[guān xì]"
+      "relationship",
+      "relation",
+      "connection"
     ]
   },
   {
@@ -5336,12 +5341,12 @@
     "hanzi": "经常",
     "pinyin": "jīng cháng",
     "translations": [
+      "regularly",
       "day to day",
       "everyday",
       "daily",
       "frequently",
       "constantly",
-      "regularly",
       "often"
     ]
   },
@@ -5452,9 +5457,9 @@
     "hanzi": "刻",
     "pinyin": "kè",
     "translations": [
+      "to carve",
       "quarter (hour)",
       "moment",
-      "to carve",
       "to engrave",
       "to cut",
       "oppressive",
@@ -6003,7 +6008,7 @@
     "hanzi": "秋",
     "pinyin": "qiū",
     "translations": [
-      "a swing"
+      "autumn"
     ]
   },
   {
@@ -6059,9 +6064,9 @@
     "hanzi": "认真",
     "pinyin": "rèn zhēn",
     "translations": [
-      "conscientious",
-      "earnest",
       "serious",
+      "earnest",
+      "conscientious",
       "to take seriously",
       "to take to heart"
     ]
@@ -6579,11 +6584,11 @@
     "hanzi": "先",
     "pinyin": "xiān",
     "translations": [
+      "first",
       "early",
       "prior",
       "former",
-      "in advance",
-      "first"
+      "in advance"
     ]
   },
   {
@@ -6652,8 +6657,8 @@
     "hanzi": "校长",
     "pinyin": "xiào zhǎng",
     "translations": [
-      "(college, university) president",
       "headmaster",
+      "(college university) president",
       "CL:個|个",
       "位",
       "名[míng]"
@@ -7201,14 +7206,13 @@
     "hanzi": "种",
     "pinyin": "zhǒng",
     "translations": [
-      "abbr. for 物種|物种",
+      "species",
+      "kind",
       "genus",
       "race",
       "seed",
       "breed",
-      "species",
       "strain",
-      "kind",
       "type",
       "has guts (i.e. courage)",
       "nerve",
@@ -8299,19 +8303,11 @@
     "hanzi": "等",
     "pinyin": "děng",
     "translations": [
+      "grade",
       "class",
       "rank",
-      "grade",
       "equal to",
-      "same as",
-      "to wait for",
-      "to await",
-      "et cetera",
-      "and so on",
-      "et al. (and other authors)",
-      "after",
-      "as soon as",
-      "once"
+      "same as"
     ]
   },
   {
@@ -8320,11 +8316,6 @@
     "hanzi": "等",
     "pinyin": "děng",
     "translations": [
-      "class",
-      "rank",
-      "grade",
-      "equal to",
-      "same as",
       "to wait for",
       "to await",
       "et cetera",
@@ -8497,19 +8488,19 @@
     "hanzi": "对",
     "pinyin": "duì",
     "translations": [
-      "couple",
-      "pair",
+      "correct (answer)",
+      "to answer",
+      "to reply",
       "to be opposite",
       "to oppose",
       "to face",
       "versus",
       "for",
       "to",
-      "correct (answer)",
-      "to answer",
-      "to reply",
       "to direct (towards sth)",
-      "right"
+      "right",
+      "couple",
+      "pair"
     ]
   },
   {
@@ -9011,11 +9002,11 @@
     "hanzi": "干",
     "pinyin": "gàn",
     "translations": [
-      "tree trunk",
+      "to do",
       "main part of sth",
       "to manage",
       "to work",
-      "to do",
+      "tree trunk",
       "capable",
       "cadre",
       "to kill (slang)",
@@ -9460,8 +9451,8 @@
     "hanzi": "好像",
     "pinyin": "hǎo xiàng",
     "translations": [
-      "as if",
-      "to seem like"
+      "to seem like",
+      "as if"
     ]
   },
   {
@@ -9568,8 +9559,8 @@
     "hanzi": "互相",
     "pinyin": "hù xiāng",
     "translations": [
-      "each other",
       "mutually",
+      "each other",
       "mutual"
     ]
   },
@@ -9763,10 +9754,9 @@
     "hanzi": "寄",
     "pinyin": "jì",
     "translations": [
+      "to send, to mail",
       "to live (in a house)",
       "to lodge",
-      "to mail",
-      "to send",
       "to entrust",
       "to depend"
     ]
@@ -9892,8 +9882,8 @@
     "hanzi": "坚持",
     "pinyin": "jiān chí",
     "translations": [
-      "to persevere with",
       "to persist in",
+      "to persevere with",
       "to insist on"
     ]
   },
@@ -10056,10 +10046,10 @@
     "hanzi": "节约",
     "pinyin": "jié yuē",
     "translations": [
-      "to economize",
+      "frugal",
       "to conserve (resources)",
       "economy",
-      "frugal"
+      "to economize"
     ]
   },
   {
@@ -10350,6 +10340,7 @@
     "hanzi": "棵",
     "pinyin": "kē",
     "translations": [
+      "measure word for plants",
       "classifier for trees",
       "cabbages",
       "plants etc"
@@ -10473,8 +10464,8 @@
     "hanzi": "宽",
     "pinyin": "kuān",
     "translations": [
-      "lenient",
       "wide",
+      "lenient",
       "broad"
     ]
   },
@@ -11432,7 +11423,7 @@
     "hanzi": "轻",
     "pinyin": "qīng",
     "translations": [
-      "light",
+      "light (gentle, soft)",
       "easy",
       "gentle",
       "soft",
@@ -12311,6 +12302,7 @@
     "hanzi": "算",
     "pinyin": "suàn",
     "translations": [
+      "to plan",
       "to regard as",
       "to figure",
       "to calculate",
@@ -12446,8 +12438,8 @@
     "hanzi": "躺",
     "pinyin": "tǎng",
     "translations": [
-      "to recline",
-      "to lie down"
+      "to lie down",
+      "to recline"
     ]
   },
   {
@@ -12663,8 +12655,8 @@
     "hanzi": "脱",
     "pinyin": "tuō",
     "translations": [
-      "to shed",
       "to take off",
+      "to shed",
       "to escape",
       "to get away from"
     ]
@@ -12880,8 +12872,8 @@
     "hanzi": "洗衣机",
     "pinyin": "xǐ yī jī",
     "translations": [
-      "washer",
       "washing machine",
+      "washer",
       "CL:臺|台[tái]"
     ]
   },
@@ -13272,8 +13264,8 @@
     "hanzi": "严重",
     "pinyin": "yán zhòng",
     "translations": [
-      "grave",
       "serious",
+      "grave",
       "severe",
       "critical"
     ]
@@ -13512,8 +13504,8 @@
     "hanzi": "赢",
     "pinyin": "yíng",
     "translations": [
-      "to beat",
       "to win",
+      "to beat",
       "to profit"
     ]
   },
@@ -13727,8 +13719,8 @@
     "hanzi": "羽毛球",
     "pinyin": "yǔ máo qiú",
     "translations": [
-      "shuttlecock",
       "badminton",
+      "shuttlecock",
       "CL:個|个[gè]"
     ]
   },
@@ -14487,8 +14479,8 @@
     "hanzi": "尊重",
     "pinyin": "zūn zhòng",
     "translations": [
-      "to esteem",
       "to respect",
+      "to esteem",
       "to honor",
       "to value",
       "eminent",
@@ -15788,9 +15780,9 @@
     "hanzi": "沉默",
     "pinyin": "chén mò",
     "translations": [
+      "silent",
       "taciturn",
-      "uncommunicative",
-      "silent"
+      "uncommunicative"
     ]
   },
   {
@@ -16066,9 +16058,9 @@
     "hanzi": "冲",
     "pinyin": "chōng",
     "translations": [
+      "to rush",
       "thoroughfare",
       "to go straight ahead",
-      "to rush",
       "to clash"
     ]
   },
@@ -16087,10 +16079,10 @@
     "hanzi": "充分",
     "pinyin": "chōng fèn",
     "translations": [
+      "full",
       "ample",
       "sufficient",
       "adequate",
-      "full",
       "fully",
       "to the full"
     ]
@@ -16832,10 +16824,10 @@
     "hanzi": "淡",
     "pinyin": "dàn",
     "translations": [
+      "mild",
       "insipid",
       "diluted",
       "weak",
-      "mild",
       "light in color",
       "tasteless",
       "fresh",
@@ -17200,9 +17192,9 @@
     "hanzi": "顶",
     "pinyin": "dǐng",
     "translations": [
+      "top",
       "apex",
       "crown of the head",
-      "top",
       "roof",
       "to carry on the head",
       "to push to the top",
@@ -17702,8 +17694,8 @@
     "hanzi": "方式",
     "pinyin": "fāng shì",
     "translations": [
-      "way (of life)",
       "pattern",
+      "way (of life)",
       "style",
       "mode",
       "manner",
@@ -19359,7 +19351,8 @@
     "hanzi": "胡同",
     "pinyin": "hú tòng",
     "translations": [
-      "variant of 胡同[hú tòng]"
+      "alley",
+      "bystreet"
     ]
   },
   {
@@ -20014,9 +20007,9 @@
     "hanzi": "艰巨",
     "pinyin": "jiān jù",
     "translations": [
+      "very difficult",
       "arduous",
       "terrible (task)",
-      "very difficult",
       "formidable"
     ]
   },
@@ -21028,6 +21021,7 @@
     "hanzi": "颗",
     "pinyin": "kē",
     "translations": [
+      "pieces",
       "classifier for small spheres",
       "pearls",
       "corn grains",
@@ -21081,6 +21075,7 @@
     "hanzi": "刻苦",
     "pinyin": "kè kǔ",
     "translations": [
+      "hard work",
       "hardworking",
       "assiduous"
     ]
@@ -21104,7 +21099,6 @@
     "hanzi": "克",
     "pinyin": "kè",
     "translations": [
-      "variant of 克[kè]",
       "to subdue",
       "to overthrow",
       "to restrain"
@@ -21683,8 +21677,8 @@
     "hanzi": "零件",
     "pinyin": "líng jiàn",
     "translations": [
-      "part",
-      "component"
+      "components",
+      "parts"
     ]
   },
   {
@@ -21822,9 +21816,9 @@
     "hanzi": "陆续",
     "pinyin": "lù xù",
     "translations": [
-      "in turn",
-      "successively",
       "one after the other",
+      "successively",
+      "in turn",
       "bit by bit"
     ]
   },
@@ -22278,8 +22272,8 @@
     "hanzi": "命令",
     "pinyin": "mìng lìng",
     "translations": [
-      "order",
       "command",
+      "order",
       "CL:道",
       "個|个[gè]"
     ]
@@ -22407,6 +22401,7 @@
     "hanzi": "木头",
     "pinyin": "mù tou",
     "translations": [
+      "wood",
       "slow-witted",
       "blockhead",
       "log (of wood, timber etc)",
@@ -23382,8 +23377,8 @@
     "hanzi": "勤奋",
     "pinyin": "qín fèn",
     "translations": [
-      "hardworking",
-      "diligent"
+      "diligent",
+      "hardworking"
     ]
   },
   {
@@ -23392,8 +23387,8 @@
     "hanzi": "勤劳",
     "pinyin": "qín láo",
     "translations": [
-      "hardworking",
       "industrious",
+      "hardworking",
       "diligent"
     ]
   },
@@ -24305,7 +24300,8 @@
     "hanzi": "升",
     "pinyin": "shēng",
     "translations": [
-      "variant of 升[shēng]"
+      "rise",
+      "ascend"
     ]
   },
   {
@@ -25225,8 +25221,8 @@
     "hanzi": "烫",
     "pinyin": "tàng",
     "translations": [
-      "to scald",
       "to burn",
+      "to scald",
       "to iron",
       "hot"
     ]
@@ -27012,10 +27008,10 @@
     "hanzi": "雄伟",
     "pinyin": "xióng wěi",
     "translations": [
-      "grand",
+      "majestic",
       "imposing",
       "magnificent",
-      "majestic"
+      "grand"
     ]
   },
   {
@@ -27024,9 +27020,9 @@
     "hanzi": "修改",
     "pinyin": "xiū gǎi",
     "translations": [
-      "to amend",
+      "to modify",
       "to alter",
-      "to modify"
+      "to amend"
     ]
   },
   {
@@ -29302,8 +29298,8 @@
     "hanzi": "总之",
     "pinyin": "zǒng zhī",
     "translations": [
-      "in a word",
       "in short",
+      "in a word",
       "in brief"
     ]
   },

@@ -862,19 +862,11 @@
     "hanzi": "等",
     "pinyin": "děng",
     "translations": [
+      "grade",
       "class",
       "rank",
-      "grade",
       "equal to",
-      "same as",
-      "to wait for",
-      "to await",
-      "et cetera",
-      "and so on",
-      "et al. (and other authors)",
-      "after",
-      "as soon as",
-      "once"
+      "same as"
     ]
   },
   {
@@ -882,11 +874,6 @@
     "hanzi": "等",
     "pinyin": "děng",
     "translations": [
-      "class",
-      "rank",
-      "grade",
-      "equal to",
-      "same as",
       "to wait for",
       "to await",
       "et cetera",
@@ -1047,19 +1034,19 @@
     "hanzi": "对",
     "pinyin": "duì",
     "translations": [
-      "couple",
-      "pair",
+      "correct (answer)",
+      "to answer",
+      "to reply",
       "to be opposite",
       "to oppose",
       "to face",
       "versus",
       "for",
       "to",
-      "correct (answer)",
-      "to answer",
-      "to reply",
       "to direct (towards sth)",
-      "right"
+      "right",
+      "couple",
+      "pair"
     ]
   },
   {
@@ -1521,11 +1508,11 @@
     "hanzi": "干",
     "pinyin": "gàn",
     "translations": [
-      "tree trunk",
+      "to do",
       "main part of sth",
       "to manage",
       "to work",
-      "to do",
+      "tree trunk",
       "capable",
       "cadre",
       "to kill (slang)",
@@ -1933,8 +1920,8 @@
     "hanzi": "好像",
     "pinyin": "hǎo xiàng",
     "translations": [
-      "as if",
-      "to seem like"
+      "to seem like",
+      "as if"
     ]
   },
   {
@@ -2031,8 +2018,8 @@
     "hanzi": "互相",
     "pinyin": "hù xiāng",
     "translations": [
-      "each other",
       "mutually",
+      "each other",
       "mutual"
     ]
   },
@@ -2210,10 +2197,9 @@
     "hanzi": "寄",
     "pinyin": "jì",
     "translations": [
+      "to send, to mail",
       "to live (in a house)",
       "to lodge",
-      "to mail",
-      "to send",
       "to entrust",
       "to depend"
     ]
@@ -2328,8 +2314,8 @@
     "hanzi": "坚持",
     "pinyin": "jiān chí",
     "translations": [
-      "to persevere with",
       "to persist in",
+      "to persevere with",
       "to insist on"
     ]
   },
@@ -2478,10 +2464,10 @@
     "hanzi": "节约",
     "pinyin": "jié yuē",
     "translations": [
-      "to economize",
+      "frugal",
       "to conserve (resources)",
       "economy",
-      "frugal"
+      "to economize"
     ]
   },
   {
@@ -2748,6 +2734,7 @@
     "hanzi": "棵",
     "pinyin": "kē",
     "translations": [
+      "measure word for plants",
       "classifier for trees",
       "cabbages",
       "plants etc"
@@ -2861,8 +2848,8 @@
     "hanzi": "宽",
     "pinyin": "kuān",
     "translations": [
-      "lenient",
       "wide",
+      "lenient",
       "broad"
     ]
   },
@@ -3738,7 +3725,7 @@
     "hanzi": "轻",
     "pinyin": "qīng",
     "translations": [
-      "light",
+      "light (gentle, soft)",
       "easy",
       "gentle",
       "soft",
@@ -4542,6 +4529,7 @@
     "hanzi": "算",
     "pinyin": "suàn",
     "translations": [
+      "to plan",
       "to regard as",
       "to figure",
       "to calculate",
@@ -4666,8 +4654,8 @@
     "hanzi": "躺",
     "pinyin": "tǎng",
     "translations": [
-      "to recline",
-      "to lie down"
+      "to lie down",
+      "to recline"
     ]
   },
   {
@@ -4866,8 +4854,8 @@
     "hanzi": "脱",
     "pinyin": "tuō",
     "translations": [
-      "to shed",
       "to take off",
+      "to shed",
       "to escape",
       "to get away from"
     ]
@@ -5064,8 +5052,8 @@
     "hanzi": "洗衣机",
     "pinyin": "xǐ yī jī",
     "translations": [
-      "washer",
       "washing machine",
+      "washer",
       "CL:臺|台[tái]"
     ]
   },
@@ -5423,8 +5411,8 @@
     "hanzi": "严重",
     "pinyin": "yán zhòng",
     "translations": [
-      "grave",
       "serious",
+      "grave",
       "severe",
       "critical"
     ]
@@ -5642,8 +5630,8 @@
     "hanzi": "赢",
     "pinyin": "yíng",
     "translations": [
-      "to beat",
       "to win",
+      "to beat",
       "to profit"
     ]
   },
@@ -5839,8 +5827,8 @@
     "hanzi": "羽毛球",
     "pinyin": "yǔ máo qiú",
     "translations": [
-      "shuttlecock",
       "badminton",
+      "shuttlecock",
       "CL:個|个[gè]"
     ]
   },
@@ -6535,8 +6523,8 @@
     "hanzi": "尊重",
     "pinyin": "zūn zhòng",
     "translations": [
-      "to esteem",
       "to respect",
+      "to esteem",
       "to honor",
       "to value",
       "eminent",

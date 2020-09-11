@@ -1144,9 +1144,9 @@
     "hanzi": "沉默",
     "pinyin": "chén mò",
     "translations": [
+      "silent",
       "taciturn",
-      "uncommunicative",
-      "silent"
+      "uncommunicative"
     ]
   },
   {
@@ -1399,9 +1399,9 @@
     "hanzi": "冲",
     "pinyin": "chōng",
     "translations": [
+      "to rush",
       "thoroughfare",
       "to go straight ahead",
-      "to rush",
       "to clash"
     ]
   },
@@ -1418,10 +1418,10 @@
     "hanzi": "充分",
     "pinyin": "chōng fèn",
     "translations": [
+      "full",
       "ample",
       "sufficient",
       "adequate",
-      "full",
       "fully",
       "to the full"
     ]
@@ -2098,10 +2098,10 @@
     "hanzi": "淡",
     "pinyin": "dàn",
     "translations": [
+      "mild",
       "insipid",
       "diluted",
       "weak",
-      "mild",
       "light in color",
       "tasteless",
       "fresh",
@@ -2434,9 +2434,9 @@
     "hanzi": "顶",
     "pinyin": "dǐng",
     "translations": [
+      "top",
       "apex",
       "crown of the head",
-      "top",
       "roof",
       "to carry on the head",
       "to push to the top",
@@ -2894,8 +2894,8 @@
     "hanzi": "方式",
     "pinyin": "fāng shì",
     "translations": [
-      "way (of life)",
       "pattern",
+      "way (of life)",
       "style",
       "mode",
       "manner",
@@ -4404,7 +4404,8 @@
     "hanzi": "胡同",
     "pinyin": "hú tòng",
     "translations": [
-      "variant of 胡同[hú tòng]"
+      "alley",
+      "bystreet"
     ]
   },
   {
@@ -4999,9 +5000,9 @@
     "hanzi": "艰巨",
     "pinyin": "jiān jù",
     "translations": [
+      "very difficult",
       "arduous",
       "terrible (task)",
-      "very difficult",
       "formidable"
     ]
   },
@@ -5924,6 +5925,7 @@
     "hanzi": "颗",
     "pinyin": "kē",
     "translations": [
+      "pieces",
       "classifier for small spheres",
       "pearls",
       "corn grains",
@@ -5973,6 +5975,7 @@
     "hanzi": "刻苦",
     "pinyin": "kè kǔ",
     "translations": [
+      "hard work",
       "hardworking",
       "assiduous"
     ]
@@ -5994,7 +5997,6 @@
     "hanzi": "克",
     "pinyin": "kè",
     "translations": [
-      "variant of 克[kè]",
       "to subdue",
       "to overthrow",
       "to restrain"
@@ -6521,8 +6523,8 @@
     "hanzi": "零件",
     "pinyin": "líng jiàn",
     "translations": [
-      "part",
-      "component"
+      "components",
+      "parts"
     ]
   },
   {
@@ -6648,9 +6650,9 @@
     "hanzi": "陆续",
     "pinyin": "lù xù",
     "translations": [
-      "in turn",
-      "successively",
       "one after the other",
+      "successively",
+      "in turn",
       "bit by bit"
     ]
   },
@@ -7063,8 +7065,8 @@
     "hanzi": "命令",
     "pinyin": "mìng lìng",
     "translations": [
-      "order",
       "command",
+      "order",
       "CL:道",
       "個|个[gè]"
     ]
@@ -7181,6 +7183,7 @@
     "hanzi": "木头",
     "pinyin": "mù tou",
     "translations": [
+      "wood",
       "slow-witted",
       "blockhead",
       "log (of wood, timber etc)",
@@ -8075,8 +8078,8 @@
     "hanzi": "勤奋",
     "pinyin": "qín fèn",
     "translations": [
-      "hardworking",
-      "diligent"
+      "diligent",
+      "hardworking"
     ]
   },
   {
@@ -8084,8 +8087,8 @@
     "hanzi": "勤劳",
     "pinyin": "qín láo",
     "translations": [
-      "hardworking",
       "industrious",
+      "hardworking",
       "diligent"
     ]
   },
@@ -8917,7 +8920,8 @@
     "hanzi": "升",
     "pinyin": "shēng",
     "translations": [
-      "variant of 升[shēng]"
+      "rise",
+      "ascend"
     ]
   },
   {
@@ -9755,8 +9759,8 @@
     "hanzi": "烫",
     "pinyin": "tàng",
     "translations": [
-      "to scald",
       "to burn",
+      "to scald",
       "to iron",
       "hot"
     ]
@@ -11384,10 +11388,10 @@
     "hanzi": "雄伟",
     "pinyin": "xióng wěi",
     "translations": [
-      "grand",
+      "majestic",
       "imposing",
       "magnificent",
-      "majestic"
+      "grand"
     ]
   },
   {
@@ -11395,9 +11399,9 @@
     "hanzi": "修改",
     "pinyin": "xiū gǎi",
     "translations": [
-      "to amend",
+      "to modify",
       "to alter",
-      "to modify"
+      "to amend"
     ]
   },
   {
@@ -13473,8 +13477,8 @@
     "hanzi": "总之",
     "pinyin": "zǒng zhī",
     "translations": [
-      "in a word",
       "in short",
+      "in a word",
       "in brief"
     ]
   },

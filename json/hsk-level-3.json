@@ -190,9 +190,9 @@
     "hanzi": "被",
     "pinyin": "bèi",
     "translations": [
+      "(indicates passive-voice clauses)",
       "quilt",
       "by",
-      "(indicates passive-voice clauses)",
       "(literary) to cover",
       "to meet with"
     ]
@@ -500,9 +500,9 @@
     "hanzi": "聪明",
     "pinyin": "cōng ming",
     "translations": [
+      "intelligent",
       "acute (of sight and hearing)",
       "clever",
-      "intelligent",
       "bright",
       "smart"
     ]
@@ -535,8 +535,8 @@
     "hanzi": "带",
     "pinyin": "dài",
     "translations": [
-      "band",
       "belt",
+      "band",
       "girdle",
       "ribbon",
       "tire",
@@ -581,10 +581,10 @@
     "hanzi": "当然",
     "pinyin": "dāng rán",
     "translations": [
+      "of course",
       "only natural",
       "as it should be",
       "certainly",
-      "of course",
       "without doubt"
     ]
   },
@@ -681,6 +681,7 @@
     "hanzi": "冬",
     "pinyin": "dōng",
     "translations": [
+      "winter",
       "sound of beating a drum",
       "onomatopoeia for rat-a-tat etc"
     ]
@@ -873,10 +874,10 @@
     "hanzi": "复习",
     "pinyin": "fù xí",
     "translations": [
-      "variant of 復習|复习",
       "to revise",
       "to review",
-      "revision"
+      "revision",
+      "variant of 復習|复习"
     ]
   },
   {
@@ -989,11 +990,11 @@
     "hanzi": "关",
     "pinyin": "guān",
     "translations": [
-      "mountain pass",
       "to close",
       "to shut",
       "to turn off",
       "to concern",
+      "mountain pass",
       "to involve"
     ]
   },
@@ -1002,7 +1003,9 @@
     "hanzi": "关系",
     "pinyin": "guān xì",
     "translations": [
-      "variant of 關係|关系[guān xì]"
+      "relationship",
+      "relation",
+      "connection"
     ]
   },
   {
@@ -1451,12 +1454,12 @@
     "hanzi": "经常",
     "pinyin": "jīng cháng",
     "translations": [
+      "regularly",
       "day to day",
       "everyday",
       "daily",
       "frequently",
       "constantly",
-      "regularly",
       "often"
     ]
   },
@@ -1557,9 +1560,9 @@
     "hanzi": "刻",
     "pinyin": "kè",
     "translations": [
+      "to carve",
       "quarter (hour)",
       "moment",
-      "to carve",
       "to engrave",
       "to cut",
       "oppressive",
@@ -2060,7 +2063,7 @@
     "hanzi": "秋",
     "pinyin": "qiū",
     "translations": [
-      "a swing"
+      "autumn"
     ]
   },
   {
@@ -2111,9 +2114,9 @@
     "hanzi": "认真",
     "pinyin": "rèn zhēn",
     "translations": [
-      "conscientious",
-      "earnest",
       "serious",
+      "earnest",
+      "conscientious",
       "to take seriously",
       "to take to heart"
     ]
@@ -2585,11 +2588,11 @@
     "hanzi": "先",
     "pinyin": "xiān",
     "translations": [
+      "first",
       "early",
       "prior",
       "former",
-      "in advance",
-      "first"
+      "in advance"
     ]
   },
   {
@@ -2652,8 +2655,8 @@
     "hanzi": "校长",
     "pinyin": "xiào zhǎng",
     "translations": [
-      "(college, university) president",
       "headmaster",
+      "(college university) president",
       "CL:個|个",
       "位",
       "名[míng]"
@@ -3156,14 +3159,13 @@
     "hanzi": "种",
     "pinyin": "zhǒng",
     "translations": [
-      "abbr. for 物種|物种",
+      "species",
+      "kind",
       "genus",
       "race",
       "seed",
       "breed",
-      "species",
       "strain",
-      "kind",
       "type",
       "has guts (i.e. courage)",
       "nerve",
